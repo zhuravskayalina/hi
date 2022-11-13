@@ -1,0 +1,1 @@
+(()=>{"use strict";var e=document.querySelector(".header__popup");document.querySelector(".header__burger").addEventListener("click",(function(){e.classList.toggle("hidden")}))})();
